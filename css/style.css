@@ -339,5 +339,8 @@ form a{
     .about-hero-section .img{
       height:100%;
     }
+  .about-hero-section .img h1{
+    font-size: 4rem;
+  }
 
 }
